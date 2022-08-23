@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Luc28_Storage"
+    android:padding="20dp"
+    android:orientation="vertical"
+    >
+
+<Button
+    android:id="@+id/btnChooseImage"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:text="Choose Image"
+    />
+    <Button
+        android:id="@+id/btnUploadImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Upload Image to Storage"
+        />
+    <ImageView
+        android:id="@+id/imageViewChoose"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        />
+
+    <Button
+        android:id="@+id/btnReadImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Read Image from Storage"
+        />
+
+    <ImageView
+        android:id="@+id/imageViewRead"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        />
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277366896963",
+    "project_id": "iugandroid2-c78b4",
+    "storage_bucket": "iugandroid2-c78b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277366896963:android:af5f252efc9c613fea57f6",
+        "android_client_info": {
+          "package_name": "com.b.alkhatib.and2_nluc25_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277366896963-gunab6andup05q62rm498jrm4f8i48in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGABUwSX3piA_siMeU5utpWbtnryDAnW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277366896963-gunab6andup05q62rm498jrm4f8i48in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
